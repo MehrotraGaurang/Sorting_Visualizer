@@ -1,0 +1,25 @@
+.array-constainer {
+    position: absolute;
+    left: 100px;
+    /* top: 100px; */
+}
+
+.array-bar {
+    width: 8px;
+    display: inline-block;
+    margin-left: 2px;
+}
+
+.wrapper-button {
+    position: relative;
+    background-color: #381313;
+    height: 80px;
+}
+
+.wrapper-bars {
+    text-align: center;
+    padding-left: 40px;
+    padding-right: 40px;
+    margin-top: 50px;
+}
+
